@@ -15,7 +15,7 @@
 <h2 align="Center"> 📊 GitHub Stats:</h2>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Khushisharma23&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushisharma23&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khushisharma23&theme=dark&hide_border=true)<br/>
 
 
