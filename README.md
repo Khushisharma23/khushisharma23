@@ -26,8 +26,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Khushi's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Khushisharma23&hide=B&theme=radical&limit=10)
-)
+![Khushi's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=khushisharma23&combine_all_yearly_contributions=true&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Khushisharma23&icon=0&color=7)](https://visitcount.itsvg.in)
 </div>
